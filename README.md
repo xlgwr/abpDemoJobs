@@ -1,5 +1,5 @@
 # AbpDemoJobs
-Abp VNext BackgroundJobs 后台任务Demo
+Abp VNext BackgroundJobs 后台服务 Demo
 
 ## 初始化数据库（mysql)
 ```
