@@ -1,6 +1,9 @@
 # AbpDemoJobs
 Abp VNext BackgroundJobs 后台服务 Demo
 
+## 文档说明见
+https://docs.abp.io/zh-Hans/abp/latest/Background-Jobs
+
 ## 初始化数据库（mysql)
 ```
 dotnet ef database update
